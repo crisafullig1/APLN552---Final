@@ -27,4 +27,9 @@ CDS Expansion:
     - Download the new data in this folder for the AI CDS. The main script is preset to meet the needs of this data and should not require any path changes or tweaks - it will also require
       downloading the gold standard document once more
     - It will output the following documents:
-            - 
+            - acq_score_timestamp.pkl
+            - aligns_lm_-1.0_a20.0_ep0.01
+            - CDS_aidata.words1000
+            - lex_lm_-1.0_a20.0_ep0.01
+            - time_props_1000.csv
+    - Each of these, again, will work with the Graphs.ipynb for Data Visualization
