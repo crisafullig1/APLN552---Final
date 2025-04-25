@@ -8,4 +8,8 @@ Replication:
     - To replicate with the original author's data only, download all files in the Replication folder including all three datasets (gold standard, dev set and test set)
     - Run the Copy_of_apln552_final_project_(new_data).ipynb script as is - it will call to all the supporting documents and takes the three datasets as input. It will output the following 
       documents:
-              - 
+              - acq_score_timestamp.pkl
+              - aligns_lm_-1.0_a20.0_ep0.01
+              - input_wn_fu_cs_scaled_categ.dev.words1000
+              - lex_lm_-1.0_a20.0_ep0.01
+              - time_props_1000.csv
