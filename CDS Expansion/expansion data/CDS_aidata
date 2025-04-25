@@ -1,0 +1,3000 @@
+1-----
+SENTENCE: what:WH can:AUX she:PRON play:V your:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: look:V the:DET loud:ADJ shoes:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,sound#0,clothing#0,shoes#0
+1-----
+SENTENCE: it:PRON open:V gently:ADV 
+SEM_REP:  ,,pronoun#0,change#0,manner#0
+1-----
+SENTENCE: where:WH can:AUX you:PRON wash:V the:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: what:WH be:AUX they:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: close:V here:ADV 
+SEM_REP:  ,,change#0,location#0
+1-----
+SENTENCE: close:V your:DET clean:ADJ block:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,cleanliness#0,object#0,block#0
+1-----
+SENTENCE: wow:INTJ 
+SEM_REP:  ,,interjection#0
+1-----
+SENTENCE: wash:V she:PRON 
+SEM_REP:  ,,cleaning#0,pronoun#0
+1-----
+SENTENCE: eat:V there:ADV 
+SEM_REP:  ,,consume#0,location#0
+1-----
+SENTENCE: are:AUX she:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: eat:V the:DET shoes:N 
+SEM_REP:  ,,consume#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: what:WH be:AUX we:PRON look:V your:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: find:V a:DET car:N 
+SEM_REP:  ,,cognitive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: look:V the:DET dog:N 
+SEM_REP:  ,,perceive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: find:V they:PRON 
+SEM_REP:  ,,cognitive#0,pronoun#0
+1-----
+SENTENCE: close:V he:PRON 
+SEM_REP:  ,,change#0,pronoun#0
+1-----
+SENTENCE: when:WH can:AUX they:PRON find:V a:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: draw:V the:DET shoes:N 
+SEM_REP:  ,,create#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: who:WH be:AUX we:PRON look:V the:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: when:WH do:AUX it:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: look:V your:DET happy:ADJ book:N 
+SEM_REP:  ,,perceive#0,determiner#0,emotional_state#0,object#0,book#0
+1-----
+SENTENCE: play:V they:PRON 
+SEM_REP:  ,,action#0,compete#0,pronoun#0
+1-----
+SENTENCE: draw:V she:PRON 
+SEM_REP:  ,,create#0,pronoun#0
+1-----
+SENTENCE: open:V your:DET dog:N 
+SEM_REP:  ,,change#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: are:AUX we:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: find:V now:ADV 
+SEM_REP:  ,,cognitive#0,time#0
+1-----
+SENTENCE: when:WH shall:AUX it:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: will:AUX you:PRON open:V my:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: when:WH will:AUX they:PRON see:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: draw:V outside:ADV 
+SEM_REP:  ,,create#0,location#0
+1-----
+SENTENCE: who:WH shall:AUX we:PRON close:V the:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: look:V loudly:ADV 
+SEM_REP:  ,,perceive#0,manner#0
+1-----
+SENTENCE: find:V outside:ADV 
+SEM_REP:  ,,cognitive#0,location#0
+1-----
+SENTENCE: what:WH can:AUX we:PRON eat:V my:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: who:WH can:AUX he:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: where:WH is:AUX you:PRON close:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: we:PRON draw:V there:ADV 
+SEM_REP:  ,,pronoun#0,create#0,location#0
+1-----
+SENTENCE: go:V they:PRON 
+SEM_REP:  ,,motion#0,pronoun#0
+1-----
+SENTENCE: will:AUX they:PRON go:V your:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: see:V my:DET funny:ADJ cookie:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,emotion#0,food#0,cookie#0
+1-----
+SENTENCE: she:PRON go:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,manner#0
+1-----
+SENTENCE: close:V we:PRON 
+SEM_REP:  ,,change#0,pronoun#0
+1-----
+SENTENCE: can:AUX she:PRON draw:V a:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: draw:V my:DET crayon:N 
+SEM_REP:  ,,create#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: be:AUX he:PRON play:V the:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: when:WH can:AUX we:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: where:WH will:AUX they:PRON play:V a:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: who:WH are:AUX you:PRON close:V your:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: who:WH be:AUX you:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: you:PRON look:V here:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,location#0
+1-----
+SENTENCE: can:AUX you:PRON play:V a:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: do:AUX it:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: you:PRON wash:V now:ADV 
+SEM_REP:  ,,pronoun#0,cleaning#0,time#0
+1-----
+SENTENCE: when:WH be:AUX we:PRON find:V a:DET toy:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: when:WH can:AUX we:PRON play:V your:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: eat:V quickly:ADV 
+SEM_REP:  ,,consume#0,manner#0
+1-----
+SENTENCE: where:WH can:AUX they:PRON draw:V my:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: no:INTJ 
+SEM_REP:  ,,negation#0
+1-----
+SENTENCE: open:V the:DET dog:N 
+SEM_REP:  ,,change#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: they:PRON draw:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,create#0,manner#0
+1-----
+SENTENCE: yay:INTJ 
+SEM_REP:  ,,interjection#0
+1-----
+SENTENCE: see:V a:DET loud:ADJ cookie:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,sound#0,food#0,cookie#0
+1-----
+SENTENCE: when:WH will:AUX he:PRON open:V my:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: play:V a:DET happy:ADJ crayon:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,emotional_state#0,object#0,crayon#0
+1-----
+SENTENCE: what:WH is:AUX he:PRON close:V the:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: where:WH do:AUX we:PRON look:V my:DET puzzle:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: draw:V a:DET dog:N 
+SEM_REP:  ,,create#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: it:PRON open:V there:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: shall:AUX he:PRON eat:V a:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: she:PRON look:V here:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,location#0
+1-----
+SENTENCE: when:WH can:AUX it:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: see:V now:ADV 
+SEM_REP:  ,,perceive#0,time#0
+1-----
+SENTENCE: see:V they:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: see:V here:ADV 
+SEM_REP:  ,,perceive#0,location#0
+1-----
+SENTENCE: do:AUX it:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: open:V my:DET book:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: open:V a:DET ball:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: go:V my:DET dog:N 
+SEM_REP:  ,,motion#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: it:PRON play:V inside:ADV 
+SEM_REP:  ,,pronoun#0,action#0,compete#0,location#0
+1-----
+SENTENCE: who:WH are:AUX they:PRON find:V my:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: draw:V a:DET toy:N 
+SEM_REP:  ,,create#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: when:WH can:AUX she:PRON see:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: wash:V gently:ADV 
+SEM_REP:  ,,cleaning#0,manner#0
+1-----
+SENTENCE: where:WH do:AUX they:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: we:PRON draw:V inside:ADV 
+SEM_REP:  ,,pronoun#0,create#0,location#0
+1-----
+SENTENCE: oops:INTJ 
+SEM_REP:  ,,interjection#0
+1-----
+SENTENCE: do:AUX you:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: eat:V now:ADV 
+SEM_REP:  ,,consume#0,time#0
+1-----
+SENTENCE: open:V a:DET red:ADJ car:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,color#0,vehicle#0,car#0
+1-----
+SENTENCE: when:WH can:AUX you:PRON open:V my:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: are:AUX he:PRON find:V a:DET ball:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: where:WH do:AUX he:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: open:V inside:ADV 
+SEM_REP:  ,,change#0,location#0
+1-----
+SENTENCE: what:WH can:AUX he:PRON find:V a:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: are:AUX we:PRON big:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,size#0
+1-----
+SENTENCE: do:AUX we:PRON play:V a:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: where:WH is:AUX it:PRON close:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: wash:V a:DET cookie:N 
+SEM_REP:  ,,cleaning#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: eat:V inside:ADV 
+SEM_REP:  ,,consume#0,location#0
+1-----
+SENTENCE: will:AUX she:PRON clean:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: yes:INTJ 
+SEM_REP:  ,,affirmation#0
+1-----
+SENTENCE: she:PRON wash:V inside:ADV 
+SEM_REP:  ,,pronoun#0,cleaning#0,location#0
+1-----
+SENTENCE: he:PRON go:V inside:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,location#0
+1-----
+SENTENCE: are:AUX they:PRON loud:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,sound#0
+1-----
+SENTENCE: open:V a:DET small:ADJ block:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,object#0,block#0
+1-----
+SENTENCE: can:AUX we:PRON red:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: can:AUX you:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: wash:V here:ADV 
+SEM_REP:  ,,cleaning#0,location#0
+1-----
+SENTENCE: where:WH will:AUX it:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: is:AUX it:PRON draw:V your:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: are:AUX you:PRON clean:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: when:WH can:AUX she:PRON go:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0
+1-----
+SENTENCE: what:WH do:AUX she:PRON open:V the:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: what:WH do:AUX it:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: you:PRON find:V outside:ADV 
+SEM_REP:  ,,pronoun#0,cognitive#0,location#0
+1-----
+SENTENCE: is:AUX she:PRON funny:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,emotion#0
+1-----
+SENTENCE: who:WH can:AUX you:PRON close:V the:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: play:V the:DET happy:ADJ cookie:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,emotional_state#0,food#0,cookie#0
+1-----
+SENTENCE: eat:V outside:ADV 
+SEM_REP:  ,,consume#0,location#0
+1-----
+SENTENCE: it:PRON look:V now:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,time#0
+1-----
+SENTENCE: do:AUX he:PRON open:V the:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: open:V your:DET happy:ADJ crayon:N 
+SEM_REP:  ,,change#0,determiner#0,emotional_state#0,object#0,crayon#0
+1-----
+SENTENCE: where:WH do:AUX you:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: draw:V a:DET funny:ADJ block:N 
+SEM_REP:  ,,create#0,determiner#0,property#0,emotion#0,object#0,block#0
+1-----
+SENTENCE: open:V my:DET big:ADJ puzzle:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,size#0,object#0,puzzle#0
+1-----
+SENTENCE: go:V we:PRON 
+SEM_REP:  ,,motion#0,pronoun#0
+1-----
+SENTENCE: is:AUX it:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: eat:V here:ADV 
+SEM_REP:  ,,consume#0,location#0
+1-----
+SENTENCE: is:AUX you:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: find:V we:PRON 
+SEM_REP:  ,,cognitive#0,pronoun#0
+1-----
+SENTENCE: open:V my:DET red:ADJ dog:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,color#0,animal#0,dog#0
+1-----
+SENTENCE: go:V inside:ADV 
+SEM_REP:  ,,motion#0,location#0
+1-----
+SENTENCE: wash:V it:PRON 
+SEM_REP:  ,,cleaning#0,pronoun#0
+1-----
+SENTENCE: who:WH will:AUX it:PRON eat:V my:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: they:PRON go:V gently:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,manner#0
+1-----
+SENTENCE: what:WH are:AUX he:PRON play:V a:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: where:WH do:AUX it:PRON close:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: who:WH is:AUX she:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: who:WH is:AUX you:PRON find:V a:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: who:WH shall:AUX it:PRON close:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: will:AUX they:PRON play:V your:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: when:WH can:AUX you:PRON eat:V your:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: will:AUX he:PRON happy:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,emotional_state#0
+1-----
+SENTENCE: we:PRON close:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,change#0,manner#0
+1-----
+SENTENCE: close:V your:DET car:N 
+SEM_REP:  ,,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: who:WH are:AUX they:PRON look:V a:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: wash:V a:DET dirty:ADJ shoes:N 
+SEM_REP:  ,,cleaning#0,determiner#0,property#0,cleanliness#0,clothing#0,shoes#0
+1-----
+SENTENCE: play:V inside:ADV 
+SEM_REP:  ,,action#0,compete#0,location#0
+1-----
+SENTENCE: look:V your:DET funny:ADJ crayon:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,emotion#0,object#0,crayon#0
+1-----
+SENTENCE: do:AUX it:PRON play:V your:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: where:WH be:AUX they:PRON see:V a:DET toy:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: shall:AUX we:PRON play:V the:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: do:AUX we:PRON look:V my:DET dog:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: see:V a:DET funny:ADJ cookie:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,emotion#0,food#0,cookie#0
+1-----
+SENTENCE: we:PRON eat:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,manner#0
+1-----
+SENTENCE: close:V quickly:ADV 
+SEM_REP:  ,,change#0,manner#0
+1-----
+SENTENCE: do:AUX she:PRON clean:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: will:AUX they:PRON loud:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,sound#0
+1-----
+SENTENCE: see:V gently:ADV 
+SEM_REP:  ,,perceive#0,manner#0
+1-----
+SENTENCE: open:V it:PRON 
+SEM_REP:  ,,change#0,pronoun#0
+1-----
+SENTENCE: go:V now:ADV 
+SEM_REP:  ,,motion#0,time#0
+1-----
+SENTENCE: he:PRON draw:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,create#0,manner#0
+1-----
+SENTENCE: where:WH do:AUX you:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: shall:AUX we:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: what:WH do:AUX you:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: play:V you:PRON 
+SEM_REP:  ,,action#0,compete#0,pronoun#0
+1-----
+SENTENCE: who:WH do:AUX they:PRON draw:V your:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: draw:V a:DET block:N 
+SEM_REP:  ,,create#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: go:V gently:ADV 
+SEM_REP:  ,,motion#0,manner#0
+1-----
+SENTENCE: eat:V a:DET happy:ADJ dog:N 
+SEM_REP:  ,,consume#0,determiner#0,emotional_state#0,animal#0,dog#0
+1-----
+SENTENCE: see:V quickly:ADV 
+SEM_REP:  ,,perceive#0,manner#0
+1-----
+SENTENCE: is:AUX you:PRON draw:V your:DET dog:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: can:AUX you:PRON close:V the:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: close:V your:DET cookie:N 
+SEM_REP:  ,,change#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: look:V my:DET new:ADJ car:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,time#0,vehicle#0,car#0
+1-----
+SENTENCE: where:WH will:AUX she:PRON draw:V my:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: see:V it:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: can:AUX it:PRON look:V the:DET book:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: be:AUX you:PRON close:V your:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: it:PRON look:V here:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,location#0
+1-----
+SENTENCE: find:V it:PRON 
+SEM_REP:  ,,cognitive#0,pronoun#0
+1-----
+SENTENCE: be:AUX she:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: be:AUX you:PRON open:V your:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: wash:V my:DET shoes:N 
+SEM_REP:  ,,cleaning#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: go:V your:DET ball:N 
+SEM_REP:  ,,motion#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: when:WH will:AUX we:PRON wash:V a:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: go:V a:DET ball:N 
+SEM_REP:  ,,motion#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: close:V outside:ADV 
+SEM_REP:  ,,change#0,location#0
+1-----
+SENTENCE: will:AUX she:PRON happy:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,emotional_state#0
+1-----
+SENTENCE: go:V a:DET blue:ADJ car:N 
+SEM_REP:  ,,motion#0,determiner#0,property#0,color#0,vehicle#0,car#0
+1-----
+SENTENCE: open:V he:PRON 
+SEM_REP:  ,,change#0,pronoun#0
+1-----
+SENTENCE: who:WH do:AUX she:PRON draw:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0
+1-----
+SENTENCE: what:WH be:AUX they:PRON play:V my:DET puzzle:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: can:AUX you:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: eat:V your:DET shoes:N 
+SEM_REP:  ,,consume#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: is:AUX she:PRON happy:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,emotional_state#0
+1-----
+SENTENCE: look:V a:DET clean:ADJ dog:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,cleanliness#0,animal#0,dog#0
+1-----
+SENTENCE: shall:AUX she:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: find:V the:DET funny:ADJ block:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,emotion#0,object#0,block#0
+1-----
+SENTENCE: close:V my:DET crayon:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: who:WH is:AUX it:PRON find:V your:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: draw:V quickly:ADV 
+SEM_REP:  ,,create#0,manner#0
+1-----
+SENTENCE: are:AUX he:PRON loud:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,sound#0
+1-----
+SENTENCE: find:V a:DET small:ADJ ball:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,object#0,ball#0
+1-----
+SENTENCE: what:WH are:AUX they:PRON play:V the:DET toy:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: who:WH shall:AUX they:PRON eat:V your:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: find:V a:DET cookie:N 
+SEM_REP:  ,,cognitive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: go:V she:PRON 
+SEM_REP:  ,,motion#0,pronoun#0
+1-----
+SENTENCE: draw:V now:ADV 
+SEM_REP:  ,,create#0,time#0
+1-----
+SENTENCE: find:V there:ADV 
+SEM_REP:  ,,cognitive#0,location#0
+1-----
+SENTENCE: open:V the:DET book:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: find:V the:DET book:N 
+SEM_REP:  ,,cognitive#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: can:AUX he:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: he:PRON go:V now:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,time#0
+1-----
+SENTENCE: are:AUX he:PRON draw:V my:DET dog:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: be:AUX we:PRON clean:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: will:AUX they:PRON blue:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: is:AUX you:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: wash:V your:DET small:ADJ crayon:N 
+SEM_REP:  ,,cleaning#0,determiner#0,property#0,object#0,crayon#0
+1-----
+SENTENCE: go:V your:DET cookie:N 
+SEM_REP:  ,,motion#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: shall:AUX we:PRON find:V the:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cognitive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: who:WH be:AUX they:PRON wash:V your:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: where:WH do:AUX they:PRON open:V my:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: wash:V outside:ADV 
+SEM_REP:  ,,cleaning#0,location#0
+1-----
+SENTENCE: she:PRON draw:V gently:ADV 
+SEM_REP:  ,,pronoun#0,create#0,manner#0
+1-----
+SENTENCE: who:WH will:AUX we:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: what:WH are:AUX they:PRON draw:V a:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: go:V your:DET puzzle:N 
+SEM_REP:  ,,motion#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: eat:V they:PRON 
+SEM_REP:  ,,consume#0,pronoun#0
+1-----
+SENTENCE: go:V the:DET cookie:N 
+SEM_REP:  ,,motion#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: are:AUX it:PRON go:V a:DET crayon:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: is:AUX she:PRON loud:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,sound#0
+1-----
+SENTENCE: what:WH be:AUX they:PRON find:V a:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: is:AUX you:PRON find:V my:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: play:V your:DET dog:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: go:V quickly:ADV 
+SEM_REP:  ,,motion#0,manner#0
+1-----
+SENTENCE: are:AUX they:PRON eat:V the:DET ball:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: where:WH can:AUX you:PRON close:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: where:WH do:AUX she:PRON find:V the:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: will:AUX you:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: where:WH is:AUX we:PRON eat:V my:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: draw:V a:DET dirty:ADJ crayon:N 
+SEM_REP:  ,,create#0,determiner#0,property#0,cleanliness#0,object#0,crayon#0
+1-----
+SENTENCE: who:WH shall:AUX you:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: can:AUX it:PRON find:V your:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: play:V a:DET dog:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: who:WH shall:AUX you:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: go:V loudly:ADV 
+SEM_REP:  ,,motion#0,manner#0
+1-----
+SENTENCE: close:V a:DET ball:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: is:AUX she:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: they:PRON open:V gently:ADV 
+SEM_REP:  ,,pronoun#0,change#0,manner#0
+1-----
+SENTENCE: do:AUX she:PRON wash:V a:DET ball:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: where:WH be:AUX they:PRON play:V your:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: we:PRON open:V outside:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: wash:V he:PRON 
+SEM_REP:  ,,cleaning#0,pronoun#0
+1-----
+SENTENCE: play:V it:PRON 
+SEM_REP:  ,,action#0,compete#0,pronoun#0
+1-----
+SENTENCE: draw:V they:PRON 
+SEM_REP:  ,,create#0,pronoun#0
+1-----
+SENTENCE: who:WH be:AUX he:PRON draw:V my:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: go:V your:DET toy:N 
+SEM_REP:  ,,motion#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: where:WH are:AUX she:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: who:WH will:AUX you:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: open:V my:DET clean:ADJ dog:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,cleanliness#0,animal#0,dog#0
+1-----
+SENTENCE: when:WH do:AUX he:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: he:PRON eat:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,manner#0
+1-----
+SENTENCE: where:WH are:AUX she:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: do:AUX they:PRON happy:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,emotional_state#0
+1-----
+SENTENCE: do:AUX she:PRON close:V your:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: play:V now:ADV 
+SEM_REP:  ,,action#0,compete#0,time#0
+1-----
+SENTENCE: when:WH will:AUX we:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: who:WH shall:AUX we:PRON eat:V your:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: draw:V he:PRON 
+SEM_REP:  ,,create#0,pronoun#0
+1-----
+SENTENCE: open:V your:DET block:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: she:PRON see:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: where:WH shall:AUX it:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: she:PRON wash:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,cleaning#0,manner#0
+1-----
+SENTENCE: where:WH be:AUX we:PRON see:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: see:V a:DET shoes:N 
+SEM_REP:  ,,perceive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: draw:V we:PRON 
+SEM_REP:  ,,create#0,pronoun#0
+1-----
+SENTENCE: what:WH is:AUX we:PRON look:V the:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: open:V loudly:ADV 
+SEM_REP:  ,,change#0,manner#0
+1-----
+SENTENCE: shall:AUX he:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: where:WH will:AUX he:PRON eat:V your:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: find:V a:DET new:ADJ cookie:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,time#0,food#0,cookie#0
+1-----
+SENTENCE: is:AUX they:PRON draw:V a:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: open:V here:ADV 
+SEM_REP:  ,,change#0,location#0
+1-----
+SENTENCE: close:V the:DET new:ADJ crayon:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,time#0,object#0,crayon#0
+1-----
+SENTENCE: you:PRON find:V gently:ADV 
+SEM_REP:  ,,pronoun#0,cognitive#0,manner#0
+1-----
+SENTENCE: they:PRON open:V outside:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: are:AUX it:PRON close:V my:DET ball:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: be:AUX you:PRON go:V a:DET crayon:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: he:PRON wash:V here:ADV 
+SEM_REP:  ,,pronoun#0,cleaning#0,location#0
+1-----
+SENTENCE: shall:AUX we:PRON clean:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: close:V now:ADV 
+SEM_REP:  ,,change#0,time#0
+1-----
+SENTENCE: find:V he:PRON 
+SEM_REP:  ,,cognitive#0,pronoun#0
+1-----
+SENTENCE: can:AUX he:PRON play:V your:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: eat:V a:DET cookie:N 
+SEM_REP:  ,,consume#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: shall:AUX he:PRON draw:V a:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: are:AUX you:PRON happy:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,emotional_state#0
+1-----
+SENTENCE: do:AUX she:PRON open:V my:DET dog:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: eat:V my:DET funny:ADJ car:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,emotion#0,vehicle#0,car#0
+1-----
+SENTENCE: shall:AUX we:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: shall:AUX you:PRON play:V my:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: what:WH are:AUX she:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: go:V your:DET shoes:N 
+SEM_REP:  ,,motion#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: look:V here:ADV 
+SEM_REP:  ,,perceive#0,location#0
+1-----
+SENTENCE: who:WH will:AUX it:PRON go:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0
+1-----
+SENTENCE: eat:V the:DET small:ADJ dog:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,animal#0,dog#0
+1-----
+SENTENCE: draw:V your:DET funny:ADJ dog:N 
+SEM_REP:  ,,create#0,determiner#0,property#0,emotion#0,animal#0,dog#0
+1-----
+SENTENCE: look:V you:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: what:WH be:AUX it:PRON draw:V the:DET toy:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: be:AUX they:PRON go:V the:DET book:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: where:WH can:AUX you:PRON go:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0
+1-----
+SENTENCE: open:V a:DET cookie:N 
+SEM_REP:  ,,change#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: what:WH is:AUX it:PRON close:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: draw:V here:ADV 
+SEM_REP:  ,,create#0,location#0
+1-----
+SENTENCE: do:AUX they:PRON look:V your:DET crayon:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: do:AUX it:PRON red:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: be:AUX she:PRON loud:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,sound#0
+1-----
+SENTENCE: draw:V the:DET cookie:N 
+SEM_REP:  ,,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: when:WH will:AUX she:PRON find:V your:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: see:V outside:ADV 
+SEM_REP:  ,,perceive#0,location#0
+1-----
+SENTENCE: they:PRON eat:V there:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,location#0
+1-----
+SENTENCE: where:WH do:AUX you:PRON find:V your:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: eat:V your:DET ball:N 
+SEM_REP:  ,,consume#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: do:AUX we:PRON play:V my:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: see:V the:DET blue:ADJ car:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,color#0,vehicle#0,car#0
+1-----
+SENTENCE: when:WH are:AUX you:PRON eat:V your:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: open:V a:DET funny:ADJ crayon:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,emotion#0,object#0,crayon#0
+1-----
+SENTENCE: what:WH are:AUX we:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: see:V my:DET puzzle:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: it:PRON draw:V there:ADV 
+SEM_REP:  ,,pronoun#0,create#0,location#0
+1-----
+SENTENCE: see:V the:DET ball:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: where:WH will:AUX they:PRON draw:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0
+1-----
+SENTENCE: see:V the:DET funny:ADJ book:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,emotion#0,object#0,book#0
+1-----
+SENTENCE: are:AUX we:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: eat:V my:DET dog:N 
+SEM_REP:  ,,consume#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: what:WH do:AUX they:PRON play:V a:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: find:V a:DET puzzle:N 
+SEM_REP:  ,,cognitive#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: we:PRON see:V now:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,time#0
+1-----
+SENTENCE: will:AUX we:PRON wash:V the:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: when:WH are:AUX she:PRON see:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: play:V your:DET book:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: do:AUX he:PRON look:V the:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: she:PRON find:V inside:ADV 
+SEM_REP:  ,,pronoun#0,cognitive#0,location#0
+1-----
+SENTENCE: wash:V my:DET crayon:N 
+SEM_REP:  ,,cleaning#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: play:V he:PRON 
+SEM_REP:  ,,action#0,compete#0,pronoun#0
+1-----
+SENTENCE: find:V the:DET dirty:ADJ dog:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,cleanliness#0,animal#0,dog#0
+1-----
+SENTENCE: wash:V there:ADV 
+SEM_REP:  ,,cleaning#0,location#0
+1-----
+SENTENCE: look:V we:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: go:V your:DET car:N 
+SEM_REP:  ,,motion#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: who:WH do:AUX she:PRON go:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0
+1-----
+SENTENCE: go:V my:DET ball:N 
+SEM_REP:  ,,motion#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: when:WH can:AUX they:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: we:PRON close:V outside:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: what:WH do:AUX you:PRON wash:V the:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: they:PRON eat:V inside:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,location#0
+1-----
+SENTENCE: it:PRON eat:V there:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,location#0
+1-----
+SENTENCE: who:WH can:AUX she:PRON play:V a:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: play:V here:ADV 
+SEM_REP:  ,,action#0,compete#0,location#0
+1-----
+SENTENCE: you:PRON go:V there:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,location#0
+1-----
+SENTENCE: close:V your:DET loud:ADJ book:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,sound#0,object#0,book#0
+1-----
+SENTENCE: see:V a:DET dog:N 
+SEM_REP:  ,,perceive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: look:V your:DET big:ADJ dog:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,size#0,animal#0,dog#0
+1-----
+SENTENCE: open:V they:PRON 
+SEM_REP:  ,,change#0,pronoun#0
+1-----
+SENTENCE: can:AUX we:PRON draw:V my:DET dog:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: who:WH is:AUX we:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: go:V here:ADV 
+SEM_REP:  ,,motion#0,location#0
+1-----
+SENTENCE: what:WH will:AUX they:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: look:V now:ADV 
+SEM_REP:  ,,perceive#0,time#0
+1-----
+SENTENCE: will:AUX he:PRON play:V a:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: will:AUX we:PRON open:V your:DET ball:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: close:V your:DET toy:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: draw:V your:DET dog:N 
+SEM_REP:  ,,create#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: see:V loudly:ADV 
+SEM_REP:  ,,perceive#0,manner#0
+1-----
+SENTENCE: open:V a:DET car:N 
+SEM_REP:  ,,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: close:V you:PRON 
+SEM_REP:  ,,change#0,pronoun#0
+1-----
+SENTENCE: where:WH be:AUX you:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: when:WH do:AUX she:PRON play:V your:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: can:AUX you:PRON open:V your:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: it:PRON see:V there:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,location#0
+1-----
+SENTENCE: open:V the:DET blue:ADJ shoes:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,color#0,clothing#0,shoes#0
+1-----
+SENTENCE: who:WH be:AUX you:PRON draw:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0
+1-----
+SENTENCE: where:WH do:AUX he:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: you:PRON open:V outside:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: will:AUX they:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: are:AUX it:PRON funny:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,emotion#0
+1-----
+SENTENCE: eat:V we:PRON 
+SEM_REP:  ,,consume#0,pronoun#0
+1-----
+SENTENCE: be:AUX he:PRON blue:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: open:V a:DET clean:ADJ ball:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,cleanliness#0,object#0,ball#0
+1-----
+SENTENCE: will:AUX we:PRON wash:V your:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: will:AUX we:PRON big:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,size#0
+1-----
+SENTENCE: eat:V my:DET crayon:N 
+SEM_REP:  ,,consume#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: find:V she:PRON 
+SEM_REP:  ,,cognitive#0,pronoun#0
+1-----
+SENTENCE: draw:V your:DET block:N 
+SEM_REP:  ,,create#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: find:V here:ADV 
+SEM_REP:  ,,cognitive#0,location#0
+1-----
+SENTENCE: find:V you:PRON 
+SEM_REP:  ,,cognitive#0,pronoun#0
+1-----
+SENTENCE: see:V a:DET ball:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: wash:V your:DET big:ADJ puzzle:N 
+SEM_REP:  ,,cleaning#0,determiner#0,property#0,size#0,object#0,puzzle#0
+1-----
+SENTENCE: wash:V a:DET shoes:N 
+SEM_REP:  ,,cleaning#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: find:V a:DET happy:ADJ crayon:N 
+SEM_REP:  ,,cognitive#0,determiner#0,emotional_state#0,object#0,crayon#0
+1-----
+SENTENCE: where:WH will:AUX you:PRON go:V your:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: is:AUX she:PRON draw:V a:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: when:WH shall:AUX it:PRON draw:V a:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: look:V your:DET puzzle:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: it:PRON draw:V inside:ADV 
+SEM_REP:  ,,pronoun#0,create#0,location#0
+1-----
+SENTENCE: are:AUX you:PRON find:V the:DET dog:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cognitive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: do:AUX it:PRON close:V a:DET dog:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: are:AUX they:PRON draw:V the:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: wash:V your:DET dog:N 
+SEM_REP:  ,,cleaning#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: will:AUX they:PRON open:V the:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: when:WH are:AUX you:PRON draw:V a:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: eat:V the:DET funny:ADJ shoes:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,emotion#0,clothing#0,shoes#0
+1-----
+SENTENCE: play:V quickly:ADV 
+SEM_REP:  ,,action#0,compete#0,manner#0
+1-----
+SENTENCE: be:AUX they:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: see:V a:DET book:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: what:WH can:AUX she:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: they:PRON see:V gently:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: is:AUX they:PRON look:V your:DET ball:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: see:V a:DET puzzle:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: wash:V inside:ADV 
+SEM_REP:  ,,cleaning#0,location#0
+1-----
+SENTENCE: open:V there:ADV 
+SEM_REP:  ,,change#0,location#0
+1-----
+SENTENCE: look:V she:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: shall:AUX she:PRON play:V a:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: who:WH shall:AUX we:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: is:AUX they:PRON red:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: will:AUX they:PRON red:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: draw:V a:DET book:N 
+SEM_REP:  ,,create#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: play:V your:DET clean:ADJ car:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,property#0,cleanliness#0,vehicle#0,car#0
+1-----
+SENTENCE: who:WH are:AUX it:PRON go:V your:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: shall:AUX she:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: be:AUX it:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: close:V there:ADV 
+SEM_REP:  ,,change#0,location#0
+1-----
+SENTENCE: find:V gently:ADV 
+SEM_REP:  ,,cognitive#0,manner#0
+1-----
+SENTENCE: go:V a:DET car:N 
+SEM_REP:  ,,motion#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: what:WH can:AUX they:PRON open:V my:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: go:V my:DET dirty:ADJ block:N 
+SEM_REP:  ,,motion#0,determiner#0,property#0,cleanliness#0,object#0,block#0
+1-----
+SENTENCE: close:V loudly:ADV 
+SEM_REP:  ,,change#0,manner#0
+1-----
+SENTENCE: go:V outside:ADV 
+SEM_REP:  ,,motion#0,location#0
+1-----
+SENTENCE: what:WH is:AUX it:PRON wash:V my:DET toy:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: see:V your:DET block:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: it:PRON go:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,manner#0
+1-----
+SENTENCE: draw:V you:PRON 
+SEM_REP:  ,,create#0,pronoun#0
+1-----
+SENTENCE: do:AUX she:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: look:V a:DET dirty:ADJ ball:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,cleanliness#0,object#0,ball#0
+1-----
+SENTENCE: eat:V the:DET dog:N 
+SEM_REP:  ,,consume#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: eat:V you:PRON 
+SEM_REP:  ,,consume#0,pronoun#0
+1-----
+SENTENCE: what:WH is:AUX he:PRON find:V the:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: look:V my:DET car:N 
+SEM_REP:  ,,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: what:WH are:AUX we:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: will:AUX you:PRON play:V a:DET book:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: eat:V it:PRON 
+SEM_REP:  ,,consume#0,pronoun#0
+1-----
+SENTENCE: when:WH is:AUX you:PRON wash:V your:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: it:PRON wash:V outside:ADV 
+SEM_REP:  ,,pronoun#0,cleaning#0,location#0
+1-----
+SENTENCE: can:AUX we:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: is:AUX they:PRON go:V a:DET crayon:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: you:PRON go:V now:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,time#0
+1-----
+SENTENCE: who:WH shall:AUX it:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: find:V my:DET shoes:N 
+SEM_REP:  ,,cognitive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: we:PRON look:V there:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,location#0
+1-----
+SENTENCE: what:WH shall:AUX it:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: what:WH is:AUX they:PRON go:V your:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: see:V inside:ADV 
+SEM_REP:  ,,perceive#0,location#0
+1-----
+SENTENCE: open:V my:DET dog:N 
+SEM_REP:  ,,change#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: be:AUX you:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: look:V there:ADV 
+SEM_REP:  ,,perceive#0,location#0
+1-----
+SENTENCE: look:V a:DET funny:ADJ toy:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,emotion#0,object#0,toy#0
+1-----
+SENTENCE: do:AUX he:PRON red:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: open:V you:PRON 
+SEM_REP:  ,,change#0,pronoun#0
+1-----
+SENTENCE: find:V your:DET new:ADJ toy:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,time#0,object#0,toy#0
+1-----
+SENTENCE: find:V the:DET happy:ADJ dog:N 
+SEM_REP:  ,,cognitive#0,determiner#0,emotional_state#0,animal#0,dog#0
+1-----
+SENTENCE: draw:V a:DET car:N 
+SEM_REP:  ,,create#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: can:AUX you:PRON draw:V the:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: look:V the:DET ball:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: he:PRON open:V gently:ADV 
+SEM_REP:  ,,pronoun#0,change#0,manner#0
+1-----
+SENTENCE: play:V my:DET big:ADJ dog:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,property#0,size#0,animal#0,dog#0
+1-----
+SENTENCE: what:WH can:AUX she:PRON find:V the:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: open:V your:DET shoes:N 
+SEM_REP:  ,,change#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: are:AUX she:PRON wash:V the:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: play:V your:DET new:ADJ toy:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,property#0,time#0,object#0,toy#0
+1-----
+SENTENCE: eat:V my:DET small:ADJ book:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,object#0,book#0
+1-----
+SENTENCE: are:AUX he:PRON wash:V the:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: he:PRON see:V gently:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: when:WH are:AUX she:PRON close:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: where:WH will:AUX we:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: are:AUX he:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: draw:V your:DET dirty:ADJ cookie:N 
+SEM_REP:  ,,create#0,determiner#0,property#0,cleanliness#0,food#0,cookie#0
+1-----
+SENTENCE: we:PRON wash:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,cleaning#0,manner#0
+1-----
+SENTENCE: can:AUX we:PRON open:V my:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: do:AUX it:PRON go:V the:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: who:WH are:AUX they:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: you:PRON draw:V now:ADV 
+SEM_REP:  ,,pronoun#0,create#0,time#0
+1-----
+SENTENCE: what:WH will:AUX he:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: can:AUX he:PRON loud:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,sound#0
+1-----
+SENTENCE: we:PRON look:V gently:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: is:AUX we:PRON open:V the:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: look:V outside:ADV 
+SEM_REP:  ,,perceive#0,location#0
+1-----
+SENTENCE: shall:AUX she:PRON look:V the:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: play:V outside:ADV 
+SEM_REP:  ,,action#0,compete#0,location#0
+1-----
+SENTENCE: she:PRON look:V gently:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: what:WH is:AUX he:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: open:V she:PRON 
+SEM_REP:  ,,change#0,pronoun#0
+1-----
+SENTENCE: he:PRON close:V inside:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: shall:AUX we:PRON draw:V the:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: shall:AUX it:PRON big:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,size#0
+1-----
+SENTENCE: wash:V the:DET dirty:ADJ crayon:N 
+SEM_REP:  ,,cleaning#0,determiner#0,property#0,cleanliness#0,object#0,crayon#0
+1-----
+SENTENCE: find:V inside:ADV 
+SEM_REP:  ,,cognitive#0,location#0
+1-----
+SENTENCE: shall:AUX we:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: who:WH will:AUX they:PRON close:V the:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: look:V the:DET clean:ADJ ball:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,cleanliness#0,object#0,ball#0
+1-----
+SENTENCE: close:V a:DET red:ADJ car:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,color#0,vehicle#0,car#0
+1-----
+SENTENCE: is:AUX we:PRON draw:V a:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: play:V she:PRON 
+SEM_REP:  ,,action#0,compete#0,pronoun#0
+1-----
+SENTENCE: see:V the:DET red:ADJ car:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,color#0,vehicle#0,car#0
+1-----
+SENTENCE: what:WH do:AUX she:PRON draw:V my:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: who:WH can:AUX you:PRON look:V your:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: do:AUX we:PRON play:V my:DET crayon:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: eat:V your:DET small:ADJ cookie:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,food#0,cookie#0
+1-----
+SENTENCE: she:PRON close:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,change#0,manner#0
+1-----
+SENTENCE: when:WH be:AUX we:PRON close:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: what:WH is:AUX he:PRON close:V the:DET toy:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: find:V the:DET clean:ADJ puzzle:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,cleanliness#0,object#0,puzzle#0
+1-----
+SENTENCE: they:PRON eat:V outside:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,location#0
+1-----
+SENTENCE: be:AUX she:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: we:PRON close:V there:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: they:PRON look:V gently:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: be:AUX they:PRON play:V my:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: when:WH be:AUX you:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: what:WH can:AUX you:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: she:PRON close:V now:ADV 
+SEM_REP:  ,,pronoun#0,change#0,time#0
+1-----
+SENTENCE: be:AUX you:PRON play:V the:DET dog:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: who:WH are:AUX he:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: close:V the:DET block:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: when:WH is:AUX you:PRON draw:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0
+1-----
+SENTENCE: who:WH will:AUX you:PRON see:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: you:PRON go:V inside:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,location#0
+1-----
+SENTENCE: who:WH will:AUX he:PRON find:V a:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: be:AUX it:PRON close:V the:DET book:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: are:AUX you:PRON go:V a:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: wash:V your:DET ball:N 
+SEM_REP:  ,,cleaning#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: see:V your:DET shoes:N 
+SEM_REP:  ,,perceive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: where:WH do:AUX it:PRON open:V the:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: what:WH do:AUX she:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: is:AUX he:PRON red:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: do:AUX they:PRON go:V a:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: when:WH is:AUX we:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: close:V inside:ADV 
+SEM_REP:  ,,change#0,location#0
+1-----
+SENTENCE: what:WH are:AUX they:PRON go:V my:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: it:PRON play:V gently:ADV 
+SEM_REP:  ,,pronoun#0,action#0,compete#0,manner#0
+1-----
+SENTENCE: he:PRON find:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,cognitive#0,manner#0
+1-----
+SENTENCE: he:PRON see:V there:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,location#0
+1-----
+SENTENCE: she:PRON close:V outside:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: where:WH are:AUX he:PRON play:V your:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: can:AUX she:PRON look:V your:DET book:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: what:WH is:AUX he:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: shall:AUX you:PRON draw:V your:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: do:AUX you:PRON clean:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: when:WH do:AUX we:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: can:AUX she:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: see:V the:DET small:ADJ toy:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,object#0,toy#0
+1-----
+SENTENCE: is:AUX she:PRON draw:V your:DET dog:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: we:PRON play:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,action#0,compete#0,manner#0
+1-----
+SENTENCE: is:AUX he:PRON see:V your:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: open:V the:DET small:ADJ crayon:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,object#0,crayon#0
+1-----
+SENTENCE: draw:V my:DET ball:N 
+SEM_REP:  ,,create#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: you:PRON see:V gently:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: shall:AUX she:PRON blue:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: what:WH can:AUX it:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: wash:V loudly:ADV 
+SEM_REP:  ,,cleaning#0,manner#0
+1-----
+SENTENCE: where:WH be:AUX we:PRON see:V my:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: close:V my:DET new:ADJ dog:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,time#0,animal#0,dog#0
+1-----
+SENTENCE: is:AUX he:PRON close:V the:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: who:WH can:AUX they:PRON play:V a:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: will:AUX he:PRON eat:V my:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: wash:V you:PRON 
+SEM_REP:  ,,cleaning#0,pronoun#0
+1-----
+SENTENCE: go:V your:DET new:ADJ book:N 
+SEM_REP:  ,,motion#0,determiner#0,property#0,time#0,object#0,book#0
+1-----
+SENTENCE: who:WH is:AUX you:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: will:AUX we:PRON funny:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,emotion#0
+1-----
+SENTENCE: go:V the:DET happy:ADJ cookie:N 
+SEM_REP:  ,,motion#0,determiner#0,emotional_state#0,food#0,cookie#0
+1-----
+SENTENCE: do:AUX it:PRON eat:V the:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: who:WH do:AUX we:PRON see:V a:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: will:AUX she:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: is:AUX we:PRON loud:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,sound#0
+1-----
+SENTENCE: open:V a:DET happy:ADJ crayon:N 
+SEM_REP:  ,,change#0,determiner#0,emotional_state#0,object#0,crayon#0
+1-----
+SENTENCE: do:AUX we:PRON loud:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,sound#0
+1-----
+SENTENCE: when:WH is:AUX you:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: see:V the:DET funny:ADJ shoes:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,emotion#0,clothing#0,shoes#0
+1-----
+SENTENCE: is:AUX you:PRON eat:V a:DET book:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: eat:V my:DET funny:ADJ shoes:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,emotion#0,clothing#0,shoes#0
+1-----
+SENTENCE: are:AUX it:PRON loud:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,sound#0
+1-----
+SENTENCE: see:V my:DET happy:ADJ block:N 
+SEM_REP:  ,,perceive#0,determiner#0,emotional_state#0,object#0,block#0
+1-----
+SENTENCE: what:WH are:AUX she:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: open:V a:DET puzzle:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: who:WH be:AUX it:PRON find:V the:DET puzzle:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: will:AUX you:PRON blue:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: will:AUX you:PRON eat:V your:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: will:AUX it:PRON red:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: go:V he:PRON 
+SEM_REP:  ,,motion#0,pronoun#0
+1-----
+SENTENCE: where:WH shall:AUX we:PRON go:V my:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: it:PRON eat:V here:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,location#0
+1-----
+SENTENCE: be:AUX she:PRON funny:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,emotion#0
+1-----
+SENTENCE: when:WH are:AUX it:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: look:V the:DET crayon:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: do:AUX she:PRON find:V your:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: look:V a:DET funny:ADJ cookie:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,emotion#0,food#0,cookie#0
+1-----
+SENTENCE: go:V a:DET book:N 
+SEM_REP:  ,,motion#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: who:WH are:AUX they:PRON open:V a:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: draw:V your:DET small:ADJ crayon:N 
+SEM_REP:  ,,create#0,determiner#0,property#0,object#0,crayon#0
+1-----
+SENTENCE: eat:V my:DET cookie:N 
+SEM_REP:  ,,consume#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: when:WH do:AUX we:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: when:WH will:AUX she:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: he:PRON close:V gently:ADV 
+SEM_REP:  ,,pronoun#0,change#0,manner#0
+1-----
+SENTENCE: when:WH can:AUX he:PRON go:V my:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: he:PRON look:V now:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,time#0
+1-----
+SENTENCE: open:V my:DET new:ADJ ball:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,time#0,object#0,ball#0
+1-----
+SENTENCE: will:AUX he:PRON draw:V the:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: open:V my:DET small:ADJ book:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,object#0,book#0
+1-----
+SENTENCE: where:WH shall:AUX they:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: she:PRON play:V gently:ADV 
+SEM_REP:  ,,pronoun#0,action#0,compete#0,manner#0
+1-----
+SENTENCE: draw:V your:DET toy:N 
+SEM_REP:  ,,create#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: it:PRON see:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: find:V a:DET loud:ADJ shoes:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,sound#0,clothing#0,shoes#0
+1-----
+SENTENCE: where:WH shall:AUX he:PRON draw:V a:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: are:AUX she:PRON draw:V your:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: she:PRON go:V gently:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,manner#0
+1-----
+SENTENCE: who:WH can:AUX they:PRON close:V a:DET toy:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: play:V your:DET dirty:ADJ ball:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,property#0,cleanliness#0,object#0,ball#0
+1-----
+SENTENCE: when:WH do:AUX you:PRON look:V your:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: go:V your:DET clean:ADJ book:N 
+SEM_REP:  ,,motion#0,determiner#0,property#0,cleanliness#0,object#0,book#0
+1-----
+SENTENCE: who:WH will:AUX it:PRON look:V the:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: it:PRON open:V now:ADV 
+SEM_REP:  ,,pronoun#0,change#0,time#0
+1-----
+SENTENCE: what:WH will:AUX they:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: do:AUX it:PRON close:V the:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: when:WH is:AUX she:PRON look:V my:DET toy:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: who:WH be:AUX she:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: look:V gently:ADV 
+SEM_REP:  ,,perceive#0,manner#0
+1-----
+SENTENCE: do:AUX you:PRON eat:V the:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: will:AUX they:PRON eat:V your:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: what:WH is:AUX we:PRON open:V the:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: close:V my:DET dirty:ADJ book:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,cleanliness#0,object#0,book#0
+1-----
+SENTENCE: is:AUX we:PRON go:V my:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: where:WH are:AUX you:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: draw:V it:PRON 
+SEM_REP:  ,,create#0,pronoun#0
+1-----
+SENTENCE: shall:AUX you:PRON eat:V your:DET book:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: be:AUX they:PRON wash:V your:DET ball:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: he:PRON open:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,change#0,manner#0
+1-----
+SENTENCE: play:V there:ADV 
+SEM_REP:  ,,action#0,compete#0,location#0
+1-----
+SENTENCE: look:V a:DET loud:ADJ toy:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,sound#0,object#0,toy#0
+1-----
+SENTENCE: eat:V your:DET toy:N 
+SEM_REP:  ,,consume#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: we:PRON close:V inside:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: will:AUX it:PRON eat:V your:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: eat:V the:DET car:N 
+SEM_REP:  ,,consume#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: when:WH can:AUX it:PRON draw:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0
+1-----
+SENTENCE: who:WH be:AUX she:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: go:V a:DET clean:ADJ car:N 
+SEM_REP:  ,,motion#0,determiner#0,property#0,cleanliness#0,vehicle#0,car#0
+1-----
+SENTENCE: are:AUX you:PRON look:V the:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: she:PRON play:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,action#0,compete#0,manner#0
+1-----
+SENTENCE: open:V the:DET car:N 
+SEM_REP:  ,,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: open:V your:DET big:ADJ puzzle:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,size#0,object#0,puzzle#0
+1-----
+SENTENCE: see:V my:DET big:ADJ cookie:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,size#0,food#0,cookie#0
+1-----
+SENTENCE: is:AUX you:PRON happy:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,emotional_state#0
+1-----
+SENTENCE: he:PRON look:V gently:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: close:V my:DET cookie:N 
+SEM_REP:  ,,change#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: you:PRON eat:V gently:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,manner#0
+1-----
+SENTENCE: find:V my:DET cookie:N 
+SEM_REP:  ,,cognitive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: where:WH be:AUX they:PRON see:V a:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: what:WH can:AUX she:PRON see:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: shall:AUX he:PRON see:V the:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: shall:AUX we:PRON red:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: eat:V your:DET red:ADJ toy:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,color#0,object#0,toy#0
+1-----
+SENTENCE: shall:AUX they:PRON close:V the:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: what:WH will:AUX you:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: eat:V the:DET big:ADJ toy:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,size#0,object#0,toy#0
+1-----
+SENTENCE: where:WH are:AUX he:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: are:AUX you:PRON look:V a:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: when:WH is:AUX we:PRON look:V the:DET puzzle:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: is:AUX she:PRON red:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: see:V you:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: who:WH are:AUX it:PRON look:V my:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: what:WH be:AUX he:PRON see:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: shall:AUX it:PRON close:V my:DET book:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: be:AUX he:PRON eat:V the:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: can:AUX it:PRON wash:V a:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: who:WH can:AUX we:PRON wash:V the:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: what:WH do:AUX they:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: who:WH shall:AUX they:PRON go:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0
+1-----
+SENTENCE: what:WH will:AUX they:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: do:AUX he:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: see:V we:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: eat:V your:DET blue:ADJ cookie:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,color#0,food#0,cookie#0
+1-----
+SENTENCE: play:V a:DET book:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: will:AUX he:PRON go:V your:DET dog:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: close:V gently:ADV 
+SEM_REP:  ,,change#0,manner#0
+1-----
+SENTENCE: she:PRON open:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,change#0,manner#0
+1-----
+SENTENCE: close:V a:DET block:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: do:AUX we:PRON funny:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,emotion#0
+1-----
+SENTENCE: we:PRON eat:V now:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,time#0
+1-----
+SENTENCE: see:V the:DET book:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: shall:AUX we:PRON wash:V my:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: when:WH shall:AUX he:PRON look:V my:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: draw:V my:DET funny:ADJ puzzle:N 
+SEM_REP:  ,,create#0,determiner#0,property#0,emotion#0,object#0,puzzle#0
+1-----
+SENTENCE: when:WH be:AUX he:PRON go:V the:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: where:WH be:AUX they:PRON wash:V my:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: draw:V a:DET crayon:N 
+SEM_REP:  ,,create#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: be:AUX you:PRON happy:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,emotional_state#0
+1-----
+SENTENCE: look:V my:DET book:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: be:AUX they:PRON big:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,size#0
+1-----
+SENTENCE: they:PRON look:V here:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,location#0
+1-----
+SENTENCE: are:AUX we:PRON close:V a:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: you:PRON look:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: be:AUX we:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: what:WH shall:AUX you:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: what:WH are:AUX they:PRON see:V a:DET puzzle:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: play:V your:DET big:ADJ dog:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,property#0,size#0,animal#0,dog#0
+1-----
+SENTENCE: see:V he:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: close:V the:DET happy:ADJ book:N 
+SEM_REP:  ,,change#0,determiner#0,emotional_state#0,object#0,book#0
+1-----
+SENTENCE: will:AUX he:PRON blue:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: you:PRON eat:V now:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,time#0
+1-----
+SENTENCE: wash:V your:DET crayon:N 
+SEM_REP:  ,,cleaning#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: look:V a:DET block:N 
+SEM_REP:  ,,perceive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: they:PRON open:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,change#0,manner#0
+1-----
+SENTENCE: play:V loudly:ADV 
+SEM_REP:  ,,action#0,compete#0,manner#0
+1-----
+SENTENCE: what:WH do:AUX we:PRON see:V the:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: will:AUX she:PRON close:V my:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: when:WH shall:AUX we:PRON find:V a:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: open:V gently:ADV 
+SEM_REP:  ,,change#0,manner#0
+1-----
+SENTENCE: wash:V they:PRON 
+SEM_REP:  ,,cleaning#0,pronoun#0
+1-----
+SENTENCE: wash:V your:DET car:N 
+SEM_REP:  ,,cleaning#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: look:V my:DET big:ADJ dog:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,size#0,animal#0,dog#0
+1-----
+SENTENCE: he:PRON eat:V outside:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,location#0
+1-----
+SENTENCE: eat:V a:DET loud:ADJ book:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,sound#0,object#0,book#0
+1-----
+SENTENCE: eat:V your:DET big:ADJ toy:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,size#0,object#0,toy#0
+1-----
+SENTENCE: where:WH will:AUX you:PRON draw:V my:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: she:PRON play:V there:ADV 
+SEM_REP:  ,,pronoun#0,action#0,compete#0,location#0
+1-----
+SENTENCE: eat:V your:DET big:ADJ book:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,size#0,object#0,book#0
+1-----
+SENTENCE: who:WH do:AUX we:PRON close:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: where:WH can:AUX it:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: wash:V we:PRON 
+SEM_REP:  ,,cleaning#0,pronoun#0
+1-----
+SENTENCE: are:AUX it:PRON eat:V a:DET crayon:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: play:V your:DET car:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: draw:V a:DET happy:ADJ crayon:N 
+SEM_REP:  ,,create#0,determiner#0,emotional_state#0,object#0,crayon#0
+1-----
+SENTENCE: wash:V my:DET clean:ADJ dog:N 
+SEM_REP:  ,,cleaning#0,determiner#0,property#0,cleanliness#0,animal#0,dog#0
+1-----
+SENTENCE: it:PRON close:V now:ADV 
+SEM_REP:  ,,pronoun#0,change#0,time#0
+1-----
+SENTENCE: is:AUX we:PRON play:V my:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: you:PRON wash:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,cleaning#0,manner#0
+1-----
+SENTENCE: what:WH are:AUX we:PRON see:V the:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: where:WH can:AUX she:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: be:AUX it:PRON draw:V your:DET book:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: wash:V the:DET dirty:ADJ shoes:N 
+SEM_REP:  ,,cleaning#0,determiner#0,property#0,cleanliness#0,clothing#0,shoes#0
+1-----
+SENTENCE: who:WH can:AUX she:PRON draw:V the:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: look:V my:DET happy:ADJ dog:N 
+SEM_REP:  ,,perceive#0,determiner#0,emotional_state#0,animal#0,dog#0
+1-----
+SENTENCE: they:PRON find:V now:ADV 
+SEM_REP:  ,,pronoun#0,cognitive#0,time#0
+1-----
+SENTENCE: play:V the:DET toy:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: go:V my:DET puzzle:N 
+SEM_REP:  ,,motion#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: when:WH do:AUX he:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: what:WH will:AUX it:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: can:AUX he:PRON see:V a:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: where:WH will:AUX he:PRON eat:V my:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: eat:V my:DET dirty:ADJ book:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,cleanliness#0,object#0,book#0
+1-----
+SENTENCE: find:V my:DET small:ADJ ball:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,object#0,ball#0
+1-----
+SENTENCE: will:AUX it:PRON happy:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,emotional_state#0
+1-----
+SENTENCE: close:V my:DET dirty:ADJ ball:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,cleanliness#0,object#0,ball#0
+1-----
+SENTENCE: do:AUX you:PRON eat:V the:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: look:V your:DET big:ADJ puzzle:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,size#0,object#0,puzzle#0
+1-----
+SENTENCE: find:V your:DET funny:ADJ shoes:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,emotion#0,clothing#0,shoes#0
+1-----
+SENTENCE: what:WH be:AUX he:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: be:AUX it:PRON find:V the:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: he:PRON look:V inside:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,location#0
+1-----
+SENTENCE: where:WH shall:AUX it:PRON close:V a:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: when:WH are:AUX they:PRON eat:V your:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: open:V your:DET car:N 
+SEM_REP:  ,,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: are:AUX he:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: where:WH is:AUX he:PRON close:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: where:WH can:AUX it:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: find:V your:DET crayon:N 
+SEM_REP:  ,,cognitive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: eat:V a:DET loud:ADJ toy:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,sound#0,object#0,toy#0
+1-----
+SENTENCE: can:AUX it:PRON draw:V a:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: do:AUX she:PRON go:V your:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: when:WH will:AUX he:PRON draw:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0
+1-----
+SENTENCE: go:V your:DET big:ADJ crayon:N 
+SEM_REP:  ,,motion#0,determiner#0,property#0,size#0,object#0,crayon#0
+1-----
+SENTENCE: is:AUX it:PRON blue:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: when:WH is:AUX we:PRON open:V a:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: we:PRON eat:V inside:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,location#0
+1-----
+SENTENCE: draw:V loudly:ADV 
+SEM_REP:  ,,create#0,manner#0
+1-----
+SENTENCE: find:V the:DET clean:ADJ book:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,cleanliness#0,object#0,book#0
+1-----
+SENTENCE: look:V my:DET new:ADJ dog:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,time#0,animal#0,dog#0
+1-----
+SENTENCE: what:WH will:AUX it:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: draw:V a:DET loud:ADJ book:N 
+SEM_REP:  ,,create#0,determiner#0,property#0,sound#0,object#0,book#0
+1-----
+SENTENCE: go:V the:DET crayon:N 
+SEM_REP:  ,,motion#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: where:WH are:AUX we:PRON eat:V my:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: you:PRON wash:V outside:ADV 
+SEM_REP:  ,,pronoun#0,cleaning#0,location#0
+1-----
+SENTENCE: do:AUX they:PRON wash:V my:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: open:V a:DET crayon:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: can:AUX he:PRON eat:V a:DET ball:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: will:AUX you:PRON eat:V a:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: will:AUX it:PRON go:V a:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: who:WH can:AUX you:PRON eat:V my:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: can:AUX you:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: when:WH can:AUX they:PRON open:V my:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: they:PRON eat:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,manner#0
+1-----
+SENTENCE: do:AUX they:PRON look:V the:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: find:V the:DET dog:N 
+SEM_REP:  ,,cognitive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: where:WH are:AUX he:PRON find:V your:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: where:WH do:AUX we:PRON see:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: when:WH is:AUX you:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: do:AUX it:PRON draw:V your:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: is:AUX he:PRON see:V the:DET crayon:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: can:AUX it:PRON close:V my:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: when:WH will:AUX it:PRON look:V my:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: they:PRON look:V now:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,time#0
+1-----
+SENTENCE: go:V my:DET shoes:N 
+SEM_REP:  ,,motion#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: will:AUX you:PRON wash:V the:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: is:AUX we:PRON clean:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: what:WH can:AUX she:PRON play:V the:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: what:WH do:AUX we:PRON close:V a:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: eat:V a:DET big:ADJ dog:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,size#0,animal#0,dog#0
+1-----
+SENTENCE: what:WH are:AUX you:PRON see:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: where:WH shall:AUX he:PRON play:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0
+1-----
+SENTENCE: when:WH do:AUX she:PRON find:V your:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: close:V the:DET crayon:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: are:AUX she:PRON big:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,size#0
+1-----
+SENTENCE: be:AUX you:PRON look:V the:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: will:AUX they:PRON open:V my:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: what:WH shall:AUX they:PRON find:V my:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: who:WH will:AUX it:PRON close:V the:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: are:AUX we:PRON find:V a:DET crayon:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: you:PRON eat:V inside:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,location#0
+1-----
+SENTENCE: shall:AUX they:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: when:WH can:AUX you:PRON find:V your:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: where:WH be:AUX we:PRON draw:V the:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: will:AUX it:PRON clean:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: eat:V a:DET big:ADJ block:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,size#0,object#0,block#0
+1-----
+SENTENCE: is:AUX we:PRON open:V a:DET ball:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: go:V my:DET loud:ADJ block:N 
+SEM_REP:  ,,motion#0,determiner#0,property#0,sound#0,object#0,block#0
+1-----
+SENTENCE: play:V a:DET dirty:ADJ book:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,property#0,cleanliness#0,object#0,book#0
+1-----
+SENTENCE: play:V a:DET happy:ADJ cookie:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,emotional_state#0,food#0,cookie#0
+1-----
+SENTENCE: will:AUX he:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: we:PRON eat:V outside:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,location#0
+1-----
+SENTENCE: what:WH shall:AUX we:PRON go:V a:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: open:V the:DET loud:ADJ cookie:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,sound#0,food#0,cookie#0
+1-----
+SENTENCE: wash:V your:DET block:N 
+SEM_REP:  ,,cleaning#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: where:WH can:AUX we:PRON open:V your:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: go:V my:DET small:ADJ block:N 
+SEM_REP:  ,,motion#0,determiner#0,property#0,object#0,block#0
+1-----
+SENTENCE: be:AUX she:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: do:AUX he:PRON go:V your:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: is:AUX we:PRON play:V the:DET shoes:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: draw:V your:DET blue:ADJ dog:N 
+SEM_REP:  ,,create#0,determiner#0,property#0,color#0,animal#0,dog#0
+1-----
+SENTENCE: when:WH do:AUX she:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: will:AUX they:PRON eat:V your:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: is:AUX it:PRON loud:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,sound#0
+1-----
+SENTENCE: look:V your:DET dirty:ADJ toy:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,cleanliness#0,object#0,toy#0
+1-----
+SENTENCE: what:WH is:AUX they:PRON open:V your:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: when:WH be:AUX we:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: draw:V the:DET clean:ADJ puzzle:N 
+SEM_REP:  ,,create#0,determiner#0,property#0,cleanliness#0,object#0,puzzle#0
+1-----
+SENTENCE: play:V the:DET book:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: when:WH shall:AUX they:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: go:V you:PRON 
+SEM_REP:  ,,motion#0,pronoun#0
+1-----
+SENTENCE: what:WH do:AUX she:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: where:WH are:AUX she:PRON see:V a:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: be:AUX you:PRON go:V my:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,motion#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: it:PRON open:V outside:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: will:AUX she:PRON play:V my:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: open:V now:ADV 
+SEM_REP:  ,,change#0,time#0
+1-----
+SENTENCE: eat:V he:PRON 
+SEM_REP:  ,,consume#0,pronoun#0
+1-----
+SENTENCE: what:WH shall:AUX he:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: will:AUX they:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: you:PRON play:V outside:ADV 
+SEM_REP:  ,,pronoun#0,action#0,compete#0,location#0
+1-----
+SENTENCE: are:AUX she:PRON draw:V my:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: go:V the:DET block:N 
+SEM_REP:  ,,motion#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: can:AUX she:PRON blue:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,color#0
+1-----
+SENTENCE: can:AUX she:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: where:WH shall:AUX she:PRON find:V a:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: what:WH will:AUX you:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: will:AUX she:PRON look:V your:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: where:WH be:AUX she:PRON wash:V a:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: wash:V my:DET car:N 
+SEM_REP:  ,,cleaning#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: you:PRON close:V here:ADV 
+SEM_REP:  ,,pronoun#0,change#0,location#0
+1-----
+SENTENCE: do:AUX you:PRON close:V a:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: close:V the:DET puzzle:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: where:WH shall:AUX he:PRON see:V a:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: close:V the:DET dog:N 
+SEM_REP:  ,,change#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: can:AUX he:PRON draw:V my:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: what:WH will:AUX it:PRON go:V your:DET cookie:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: be:AUX he:PRON open:V my:DET toy:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: open:V your:DET loud:ADJ book:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,sound#0,object#0,book#0
+1-----
+SENTENCE: can:AUX it:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: what:WH can:AUX it:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: eat:V your:DET happy:ADJ crayon:N 
+SEM_REP:  ,,consume#0,determiner#0,emotional_state#0,object#0,crayon#0
+1-----
+SENTENCE: she:PRON draw:V there:ADV 
+SEM_REP:  ,,pronoun#0,create#0,location#0
+1-----
+SENTENCE: find:V my:DET loud:ADJ puzzle:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,sound#0,object#0,puzzle#0
+1-----
+SENTENCE: when:WH are:AUX they:PRON go:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0
+1-----
+SENTENCE: when:WH do:AUX they:PRON find:V your:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: wash:V my:DET big:ADJ shoes:N 
+SEM_REP:  ,,cleaning#0,determiner#0,property#0,size#0,clothing#0,shoes#0
+1-----
+SENTENCE: who:WH shall:AUX she:PRON eat:V my:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: where:WH be:AUX they:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: look:V my:DET loud:ADJ car:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,sound#0,vehicle#0,car#0
+1-----
+SENTENCE: see:V she:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: see:V your:DET red:ADJ book:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,color#0,object#0,book#0
+1-----
+SENTENCE: what:WH shall:AUX he:PRON go:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0
+1-----
+SENTENCE: look:V they:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: eat:V a:DET ball:N 
+SEM_REP:  ,,consume#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: open:V the:DET loud:ADJ book:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,sound#0,object#0,book#0
+1-----
+SENTENCE: is:AUX they:PRON funny:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,emotion#0
+1-----
+SENTENCE: we:PRON play:V here:ADV 
+SEM_REP:  ,,pronoun#0,action#0,compete#0,location#0
+1-----
+SENTENCE: he:PRON close:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,change#0,manner#0
+1-----
+SENTENCE: when:WH is:AUX she:PRON look:V the:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: open:V a:DET big:ADJ cookie:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,size#0,food#0,cookie#0
+1-----
+SENTENCE: what:WH will:AUX they:PRON look:V your:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: do:AUX it:PRON happy:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,emotional_state#0
+1-----
+SENTENCE: who:WH are:AUX they:PRON find:V my:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: eat:V a:DET puzzle:N 
+SEM_REP:  ,,consume#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: is:AUX you:PRON small:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0
+1-----
+SENTENCE: who:WH will:AUX you:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: will:AUX they:PRON big:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,size#0
+1-----
+SENTENCE: when:WH shall:AUX it:PRON play:V your:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: what:WH be:AUX we:PRON open:V a:DET book:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: eat:V gently:ADV 
+SEM_REP:  ,,consume#0,manner#0
+1-----
+SENTENCE: are:AUX it:PRON wash:V the:DET puzzle:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: can:AUX he:PRON clean:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: close:V my:DET loud:ADJ crayon:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,sound#0,object#0,crayon#0
+1-----
+SENTENCE: open:V your:DET crayon:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: we:PRON draw:V now:ADV 
+SEM_REP:  ,,pronoun#0,create#0,time#0
+1-----
+SENTENCE: shall:AUX they:PRON see:V your:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: play:V a:DET crayon:N 
+SEM_REP:  ,,action#0,compete#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: draw:V your:DET cookie:N 
+SEM_REP:  ,,create#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: do:AUX she:PRON close:V my:DET ball:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: will:AUX we:PRON open:V your:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: close:V a:DET car:N 
+SEM_REP:  ,,change#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: find:V my:DET blue:ADJ puzzle:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,color#0,object#0,puzzle#0
+1-----
+SENTENCE: he:PRON eat:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,manner#0
+1-----
+SENTENCE: where:WH do:AUX you:PRON play:V the:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: close:V my:DET toy:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: who:WH is:AUX we:PRON go:V my:DET ball:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,object#0,ball#0
+1-----
+SENTENCE: be:AUX we:PRON happy:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,emotional_state#0
+1-----
+SENTENCE: where:WH do:AUX you:PRON see:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: are:AUX they:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
+1-----
+SENTENCE: it:PRON see:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: shall:AUX it:PRON open:V the:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: wash:V your:DET book:N 
+SEM_REP:  ,,cleaning#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: shall:AUX we:PRON look:V the:DET crayon:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: are:AUX we:PRON close:V my:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: what:WH are:AUX they:PRON open:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0
+1-----
+SENTENCE: wash:V your:DET shoes:N 
+SEM_REP:  ,,cleaning#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: open:V outside:ADV 
+SEM_REP:  ,,change#0,location#0
+1-----
+SENTENCE: when:WH are:AUX you:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: draw:V the:DET puzzle:N 
+SEM_REP:  ,,create#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: she:PRON look:V quickly:ADV 
+SEM_REP:  ,,pronoun#0,perceive#0,manner#0
+1-----
+SENTENCE: shall:AUX she:PRON funny:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,emotion#0
+1-----
+SENTENCE: we:PRON wash:V outside:ADV 
+SEM_REP:  ,,pronoun#0,cleaning#0,location#0
+1-----
+SENTENCE: find:V a:DET clean:ADJ shoes:N 
+SEM_REP:  ,,cognitive#0,determiner#0,property#0,cleanliness#0,clothing#0,shoes#0
+1-----
+SENTENCE: what:WH will:AUX we:PRON draw:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0
+1-----
+SENTENCE: we:PRON go:V now:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,time#0
+1-----
+SENTENCE: find:V my:DET car:N 
+SEM_REP:  ,,cognitive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: close:V a:DET blue:ADJ crayon:N 
+SEM_REP:  ,,change#0,determiner#0,property#0,color#0,object#0,crayon#0
+1-----
+SENTENCE: what:WH do:AUX she:PRON play:V your:DET toy:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,action#0,compete#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: what:WH will:AUX it:PRON draw:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0
+1-----
+SENTENCE: go:V a:DET blue:ADJ cookie:N 
+SEM_REP:  ,,motion#0,determiner#0,property#0,color#0,food#0,cookie#0
+1-----
+SENTENCE: you:PRON draw:V there:ADV 
+SEM_REP:  ,,pronoun#0,create#0,location#0
+1-----
+SENTENCE: she:PRON eat:V loudly:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,manner#0
+1-----
+SENTENCE: wash:V my:DET cookie:N 
+SEM_REP:  ,,cleaning#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: what:WH do:AUX he:PRON look:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0
+1-----
+SENTENCE: look:V quickly:ADV 
+SEM_REP:  ,,perceive#0,manner#0
+1-----
+SENTENCE: what:WH is:AUX he:PRON see:V the:DET car:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: eat:V my:DET new:ADJ crayon:N 
+SEM_REP:  ,,consume#0,determiner#0,property#0,time#0,object#0,crayon#0
+1-----
+SENTENCE: shall:AUX it:PRON close:V a:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: eat:V she:PRON 
+SEM_REP:  ,,consume#0,pronoun#0
+1-----
+SENTENCE: be:AUX it:PRON look:V a:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: they:PRON go:V outside:ADV 
+SEM_REP:  ,,pronoun#0,motion#0,location#0
+1-----
+SENTENCE: shall:AUX we:PRON see:V the:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: shall:AUX you:PRON see:V your:DET car:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,perceive#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: who:WH are:AUX she:PRON eat:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,consume#0
+1-----
+SENTENCE: will:AUX she:PRON close:V my:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,change#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: look:V a:DET cookie:N 
+SEM_REP:  ,,perceive#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: go:V my:DET happy:ADJ toy:N 
+SEM_REP:  ,,motion#0,determiner#0,emotional_state#0,object#0,toy#0
+1-----
+SENTENCE: open:V your:DET happy:ADJ dog:N 
+SEM_REP:  ,,change#0,determiner#0,emotional_state#0,animal#0,dog#0
+1-----
+SENTENCE: draw:V the:DET small:ADJ block:N 
+SEM_REP:  ,,create#0,determiner#0,property#0,object#0,block#0
+1-----
+SENTENCE: when:WH will:AUX they:PRON see:V the:DET shoes:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,perceive#0,determiner#0,clothing#0,shoes#0
+1-----
+SENTENCE: they:PRON draw:V here:ADV 
+SEM_REP:  ,,pronoun#0,create#0,location#0
+1-----
+SENTENCE: where:WH shall:AUX he:PRON wash:V a:DET toy:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0,determiner#0,object#0,toy#0
+1-----
+SENTENCE: is:AUX he:PRON clean:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: wash:V a:DET clean:ADJ crayon:N 
+SEM_REP:  ,,cleaning#0,determiner#0,property#0,cleanliness#0,object#0,crayon#0
+1-----
+SENTENCE: who:WH do:AUX he:PRON close:V the:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: eat:V my:DET car:N 
+SEM_REP:  ,,consume#0,determiner#0,vehicle#0,car#0
+1-----
+SENTENCE: look:V it:PRON 
+SEM_REP:  ,,perceive#0,pronoun#0
+1-----
+SENTENCE: will:AUX she:PRON dirty:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,cleanliness#0
+1-----
+SENTENCE: what:WH can:AUX he:PRON go:V the:DET dog:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,motion#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: do:AUX you:PRON find:V the:DET book:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,book#0
+1-----
+SENTENCE: it:PRON eat:V gently:ADV 
+SEM_REP:  ,,pronoun#0,consume#0,manner#0
+1-----
+SENTENCE: when:WH be:AUX she:PRON find:V my:DET block:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: who:WH shall:AUX she:PRON find:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cognitive#0
+1-----
+SENTENCE: what:WH do:AUX you:PRON wash:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,cleaning#0
+1-----
+SENTENCE: see:V the:DET new:ADJ dog:N 
+SEM_REP:  ,,perceive#0,determiner#0,property#0,time#0,animal#0,dog#0
+1-----
+SENTENCE: see:V the:DET dog:N 
+SEM_REP:  ,,perceive#0,determiner#0,animal#0,dog#0
+1-----
+SENTENCE: close:V a:DET puzzle:N 
+SEM_REP:  ,,change#0,determiner#0,object#0,puzzle#0
+1-----
+SENTENCE: is:AUX it:PRON big:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,size#0
+1-----
+SENTENCE: what:WH are:AUX you:PRON draw:V 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,create#0
+1-----
+SENTENCE: look:V inside:ADV 
+SEM_REP:  ,,perceive#0,location#0
+1-----
+SENTENCE: where:WH can:AUX we:PRON open:V the:DET crayon:N 
+SEM_REP:  ,,question#0,auxiliary#0,pronoun#0,change#0,determiner#0,object#0,crayon#0
+1-----
+SENTENCE: are:AUX she:PRON draw:V your:DET block:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,create#0,determiner#0,object#0,block#0
+1-----
+SENTENCE: be:AUX it:PRON wash:V a:DET cookie:N 
+SEM_REP:  ,,auxiliary#0,pronoun#0,cleaning#0,determiner#0,food#0,cookie#0
+1-----
+SENTENCE: be:AUX it:PRON new:ADJ 
+SEM_REP:  ,,auxiliary#0,pronoun#0,property#0,time#0
