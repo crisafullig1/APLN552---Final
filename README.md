@@ -5,4 +5,7 @@ This code is a replication of the main code in https://github.com/aidanematzadeh
 There are two main files here - Replication and CDS Expansion. Both use the original author's main() script, data, and supporting documents almost identically, with a few tweaks for compaitbility. They should all be able to be run as is, as long as the support documents and data are downloaded.
 
 Replication:
-    - 
+    - To replicate with the original author's data only, download all files in the Replication folder including all three datasets (gold standard, dev set and test set)
+    - Run the Copy_of_apln552_final_project_(new_data).ipynb script as is - it will call to all the supporting documents and takes the three datasets as input. It will output the following 
+      documents:
+              - 
